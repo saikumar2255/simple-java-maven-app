@@ -3,7 +3,7 @@
 	"networkMode": "awsvpc",
 	"containerDefinitions": [
 		{
-		"name": "my app",
+		"name": "mydemo",
 		"image": "620669233735.dkr.ecr.ap-south-1.amazonaws.com/my-app:latest",
 		"portMappings": [
 			{
